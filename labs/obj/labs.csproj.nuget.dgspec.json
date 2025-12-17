@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/high_performer/Desktop/projects/testoos/labs/labs.csproj": {}
+    "/Users/high_performer/Desktop/projects/testoos/TestLabsSelenium/labs/labs.csproj": {}
   },
   "projects": {
-    "/Users/high_performer/Desktop/projects/testoos/labs/labs.csproj": {
+    "/Users/high_performer/Desktop/projects/testoos/TestLabsSelenium/labs/labs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/high_performer/Desktop/projects/testoos/labs/labs.csproj",
+        "projectUniqueName": "/Users/high_performer/Desktop/projects/testoos/TestLabsSelenium/labs/labs.csproj",
         "projectName": "labs",
-        "projectPath": "/Users/high_performer/Desktop/projects/testoos/labs/labs.csproj",
+        "projectPath": "/Users/high_performer/Desktop/projects/testoos/TestLabsSelenium/labs/labs.csproj",
         "packagesPath": "/Users/high_performer/.nuget/packages/",
-        "outputPath": "/Users/high_performer/Desktop/projects/testoos/labs/obj/",
+        "outputPath": "/Users/high_performer/Desktop/projects/testoos/TestLabsSelenium/labs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/high_performer/.nuget/NuGet/NuGet.Config"
@@ -80,7 +80,7 @@
             },
             "Selenium.WebDriver.ChromeDriver": {
               "target": "Package",
-              "version": "[141.0.7062.7600, )"
+              "version": "[143.0.7499.4200, )"
             },
             "coverlet.collector": {
               "target": "Package",

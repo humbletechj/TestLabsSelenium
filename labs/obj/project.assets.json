@@ -510,7 +510,7 @@
           "lib/net5.0/WebDriver.dll": {}
         }
       },
-      "Selenium.WebDriver.ChromeDriver/141.0.7390.5400": {
+      "Selenium.WebDriver.ChromeDriver/143.0.7499.4200": {
         "type": "package",
         "build": {
           "build/Selenium.WebDriver.ChromeDriver.targets": {}
@@ -1959,10 +1959,10 @@
         "selenium.webdriver.nuspec"
       ]
     },
-    "Selenium.WebDriver.ChromeDriver/141.0.7390.5400": {
-      "sha512": "Yax9Z5NB7Fw7VKiqo7wdeULGdbMHr4euapgZgAWuStJSsP/8JKjbUzKwv4zvk3mszPvBx3esvngVjCF7hiFDjQ==",
+    "Selenium.WebDriver.ChromeDriver/143.0.7499.4200": {
+      "sha512": "Jg7f723BWugjd6ZM/GsFKgFXSI14DklkURJx6WJGrP8j6pA2nXlwjHs7PN8vOex2qK4fmlShRsvDL6iC1Q8Kqg==",
       "type": "package",
-      "path": "selenium.webdriver.chromedriver/141.0.7390.5400",
+      "path": "selenium.webdriver.chromedriver/143.0.7499.4200",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1979,7 +1979,7 @@
         "driver/win32/LICENSE.chromedriver",
         "driver/win32/chromedriver.exe",
         "nupkg-icon.png",
-        "selenium.webdriver.chromedriver.141.0.7390.5400.nupkg.sha512",
+        "selenium.webdriver.chromedriver.143.0.7499.4200.nupkg.sha512",
         "selenium.webdriver.chromedriver.nuspec"
       ]
     },
@@ -4190,7 +4190,7 @@
       "NUnit3TestAdapter >= 3.16.1",
       "Selenium.Support >= 4.4.0",
       "Selenium.WebDriver >= 4.4.0",
-      "Selenium.WebDriver.ChromeDriver >= 141.0.7062.7600",
+      "Selenium.WebDriver.ChromeDriver >= 143.0.7499.4200",
       "coverlet.collector >= 6.0.2"
     ]
   },
@@ -4200,11 +4200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/high_performer/Desktop/projects/testoos/labs/labs.csproj",
+      "projectUniqueName": "/Users/high_performer/Desktop/projects/testoos/TestLabsSelenium/labs/labs.csproj",
       "projectName": "labs",
-      "projectPath": "/Users/high_performer/Desktop/projects/testoos/labs/labs.csproj",
+      "projectPath": "/Users/high_performer/Desktop/projects/testoos/TestLabsSelenium/labs/labs.csproj",
       "packagesPath": "/Users/high_performer/.nuget/packages/",
-      "outputPath": "/Users/high_performer/Desktop/projects/testoos/labs/obj/",
+      "outputPath": "/Users/high_performer/Desktop/projects/testoos/TestLabsSelenium/labs/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/high_performer/.nuget/NuGet/NuGet.Config"
@@ -4273,7 +4273,7 @@
           },
           "Selenium.WebDriver.ChromeDriver": {
             "target": "Package",
-            "version": "[141.0.7062.7600, )"
+            "version": "[143.0.7499.4200, )"
           },
           "coverlet.collector": {
             "target": "Package",
@@ -4299,17 +4299,5 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "labs depends on Selenium.WebDriver.ChromeDriver (>= 141.0.7062.7600) but Selenium.WebDriver.ChromeDriver 141.0.7062.7600 was not found. Selenium.WebDriver.ChromeDriver 141.0.7390.5400 was resolved instead.",
-      "libraryId": "Selenium.WebDriver.ChromeDriver",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  }
 }

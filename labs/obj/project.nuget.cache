@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h6Me4oFezEk=",
+  "dgSpecHash": "W/HGPSxohng=",
   "success": true,
-  "projectFilePath": "/Users/high_performer/Desktop/projects/testoos/labs/labs.csproj",
+  "projectFilePath": "/Users/high_performer/Desktop/projects/testoos/TestLabsSelenium/labs/labs.csproj",
   "expectedPackageFiles": [
     "/Users/high_performer/.nuget/packages/coverlet.collector/6.0.2/coverlet.collector.6.0.2.nupkg.sha512",
     "/Users/high_performer/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
@@ -25,7 +25,7 @@
     "/Users/high_performer/.nuget/packages/runtime.native.system/4.3.0/runtime.native.system.4.3.0.nupkg.sha512",
     "/Users/high_performer/.nuget/packages/selenium.support/4.4.0/selenium.support.4.4.0.nupkg.sha512",
     "/Users/high_performer/.nuget/packages/selenium.webdriver/4.4.0/selenium.webdriver.4.4.0.nupkg.sha512",
-    "/Users/high_performer/.nuget/packages/selenium.webdriver.chromedriver/141.0.7390.5400/selenium.webdriver.chromedriver.141.0.7390.5400.nupkg.sha512",
+    "/Users/high_performer/.nuget/packages/selenium.webdriver.chromedriver/143.0.7499.4200/selenium.webdriver.chromedriver.143.0.7499.4200.nupkg.sha512",
     "/Users/high_performer/.nuget/packages/system.appcontext/4.1.0/system.appcontext.4.1.0.nupkg.sha512",
     "/Users/high_performer/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
     "/Users/high_performer/.nuget/packages/system.collections.nongeneric/4.3.0/system.collections.nongeneric.4.3.0.nupkg.sha512",
@@ -66,18 +66,5 @@
     "/Users/high_performer/.nuget/packages/system.xml.xpath/4.3.0/system.xml.xpath.4.3.0.nupkg.sha512",
     "/Users/high_performer/.nuget/packages/system.xml.xpath.xmldocument/4.3.0/system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1603",
-      "level": "Warning",
-      "message": "labs depends on Selenium.WebDriver.ChromeDriver (>= 141.0.7062.7600) but Selenium.WebDriver.ChromeDriver 141.0.7062.7600 was not found. Selenium.WebDriver.ChromeDriver 141.0.7390.5400 was resolved instead.",
-      "projectPath": "/Users/high_performer/Desktop/projects/testoos/labs/labs.csproj",
-      "warningLevel": 1,
-      "filePath": "/Users/high_performer/Desktop/projects/testoos/labs/labs.csproj",
-      "libraryId": "Selenium.WebDriver.ChromeDriver",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  "logs": []
 }
